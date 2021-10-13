@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/us
+permalink: /about/
 ---
 
 Namaste, we are a community working cybersecurity professionals interested to share our knowledge and thoughts.
